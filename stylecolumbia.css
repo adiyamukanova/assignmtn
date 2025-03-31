@@ -1,0 +1,17 @@
+#flag {
+    height: 600px;
+    width: 900px;
+    color: orange;
+}
+
+#flag > div {
+    height: 400px;
+    width: 900px;
+    color: blue;
+}
+
+div > div {
+    height: 200px;
+    width: 900px;
+    color: red;
+}
